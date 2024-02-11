@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Publicity.AI/static/css/main.1f893950.css",
+    "main.js": "/Publicity.AI/static/js/main.5a0927e2.js",
+    "static/js/592.671e3334.chunk.js": "/Publicity.AI/static/js/592.671e3334.chunk.js",
+    "static/media/logo.svg": "/Publicity.AI/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Publicity.AI/index.html",
+    "main.1f893950.css.map": "/Publicity.AI/static/css/main.1f893950.css.map",
+    "main.5a0927e2.js.map": "/Publicity.AI/static/js/main.5a0927e2.js.map",
+    "592.671e3334.chunk.js.map": "/Publicity.AI/static/js/592.671e3334.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f893950.css",
+    "static/js/main.5a0927e2.js"
+  ]
+}
