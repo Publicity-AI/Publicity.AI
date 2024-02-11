@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+.heading{
+  margin-top: 0%;
+  color: pink;
+  margin-left: auto;
+  font-size: 100px;
+  font-weight: 600;
+}
+
+.chatbox{
+  margin-top: -2%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.instructions{
+  color: pink;
+  margin-left: auto;
+  margin-top: 3%;
+
+}
+
+.i{
+  text-align: left;
+  font-size: 30px;
+}
+
+#h{
+  font-weight: bold;
+  margin-bottom: 4%;
+}
+
+.mainContainer{
+  display: flex;
+}
+
